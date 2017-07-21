@@ -93,7 +93,7 @@ body {
 	box-shadow: 2px 2px 10px #bbb;
 	opacity: 0;
 	transition: opacity 1s linear;
-	display: none;
+	visibility: hidden;
 }
 
 .top {
